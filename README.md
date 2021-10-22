@@ -16,9 +16,9 @@ OBJETIVO: Incluir funcionalidades como Trámite de Secure card para facilitar la
 - Moisés Arévalo 
 Back-end / front-end Developer
 
-- 
+- Sofía Vázquez Vera 
+Back end Developer
 
-- 
 
 Hackaton BBVA 2021
 Reto: Super App
