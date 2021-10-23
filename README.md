@@ -1,6 +1,6 @@
 --------------------------------------
 # PROYECTO: SUPER APP - InoViExp
-OBJETIVO: Incluir funcionalidades como Trámite de Secure card para facilitar la inclusión de sectores de la población no bancarizados con el uso de Blockchain en Smart Contracts y éste seria un modo de innovar y optimizar esta nueva area que se propone para BBVA, así como propuestas de creación de Modo invitado a la app para poder brindar servicios a usuarios que no cuenten con una cuenta en BBVA, y finalmente propuesta de rediseño de la Home page de la aplicacion existente.
+**OBJETIVO** Incluir funcionalidades como Trámite de Secure card para facilitar la inclusión de sectores de la población no bancarizados con el uso de Blockchain en Smart Contracts y éste seria un modo de innovar y optimizar esta nueva area que se propone para BBVA, así como propuestas de creación de Modo invitado a la app para poder brindar servicios a usuarios que no cuenten con una cuenta en BBVA, y finalmente propuesta de rediseño de la Home page de la aplicacion existente.
 
 --------------------------------------
 **INTEGRANTES DEL EQUIPO**
@@ -30,8 +30,8 @@ Reto: Super App
 
 EL Reto Super app gira alrededor de tres ejes:
 
- - ¿Qué servicios agregarías? 
  - ¿Qué necesidad debería resolver? 
+ - ¿Qué servicios agregarías? 
  - ¿Cómo integrarías estas nuevas características con las soluciones que ya tiene?
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -40,7 +40,8 @@ EL Reto Super app gira alrededor de tres ejes:
 
 Como actividad inicial, llevamos a cabo un pequeño taller de Design Thinking para facilitar la colaboración del equipo, despertar el pensamiento creativo e innovador y alinear nuestras ideas.
 
-“El Design Thinking es la intersección de las necesidades de las personas, la factibilidad técnica y la viabilidad como negocio”. - Tim Brown
+“El Design Thinking es la intersección de las necesidades de las personas, la factibilidad técnica y la viabilidad como negocio”. 
+ Tim Brown
 
 Las 5 etapas del Design Thinking
 ![DesignThinking](https://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/Design+thinking.jpg)
@@ -62,17 +63,22 @@ Fase de Testeo Pendiente para el dia sábado
 Esta fase es crucial y nos ayudará a identificar mejoras significativas, fallos a resolver, posibles carencias, replantear todo o iterar en busca de las mejoras.
 Durante esta fase evolucionaremos nuestra idea hasta convertirla en la solución que estábamos buscando.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 
 **EMPATIZAR**
 
 - Desk Research: Aunque el trabajo de campo es insustituible, el contexto de una pandemia no nos aleja de nuestro objetivo de buscar información que nos permita empatizar y entender mejor a nuestro usuario. Optamos por realizar la lectura de opiniones que han dejado los usuarios de la App BBVA en Play Store, App Store, diversas redes sociales e hicimos búsqueda de noticias. 
 
-- Benchmarking: Siempre es muy interesante, si no imprescindible, conocer lo que otros están haciendo sobre el tema que estamos tratando. Nos ayudará para inspirarnos y para usar lo que ya sabemos que funciona y descartar lo que otros han intentado pero no ha servido. Para hacer Benchmarking no hay otro sistema que sentarse delante del ordenador, ponerse a buscar e ir guardando información en un documento, ya sea en Word o power point. Después con toda la información relevante realizaremos un informe.
+![Imagen Tablero Empatizar1](https://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/Empatizar+1.pdf)
 
-![Imagen Tablero Empatizar](https://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/Empatizar.jpg)
+- Benchmarking: Siempre es muy interesante, si no imprescindible, conocer lo que otros están haciendo sobre el tema que estamos tratando. Nos ayudará para inspirarnos y para usar lo que ya sabemos que funciona y descartar lo que otros han intentado pero no ha servido. Para hacer Benchmarking el sistema que utilizamos fué buscar en Google y documentar con screenshots nuestros hallazgos. 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Imagen Tablero Empatizar2](https://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/Empatizar2.pdf)
+
+_Aprendizaje Obtenido_: En esta fase detectamos los dolores y necesidades de los usuarios de la app BBVA, tambien tomamos como inspiración las buenas prácticas de otros servicios financieros y apps para pagos de servicios
+_Propuesta_: Rediseño de la homepage colocando las funcionalidades mas usadas por el usuario con la finalidad de acortar los user journeys 
+
+----------------------------------------------------------------------------------------------------------------------------------------
 **DEFINIR**
 
 - Personas: la idea es realizar un perfil de usuario por cada tipología de persona que está implicada en el problema o solución. Aunque cada persona representa a una tipología o segmento de la población para la que vamos a diseñar, en esta técnica, se trata como si fuese una persona. Si vamos a poner a las personas en el centro necesitamos conocer esas personas.
@@ -111,6 +117,8 @@ FASE PENDIENTE DE REALIZARSE DIA SÁBADO
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **FICHA TÉCNICA APLICACIÓN**
+
+FASE PENDIENTE DE REALIZARSE DIA SÁBADO
  
 - 
 -  
