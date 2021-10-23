@@ -73,33 +73,6 @@ class _InvitadoState extends State<Invitado> {
         backgroundColor: Colors.blueBackground,
       ),
     );
-    // return ListView(
-    //   children: [
-    //     Container(
-    //         margin: const EdgeInsets.all(10),
-    //         child: Column(
-    //           crossAxisAlignment: CrossAxisAlignment.end,
-    //           children: [
-    //             Text('Total de Puntos: 0 pts ', textAlign: TextAlign.right,),
-    //             Text('*Expiran en # Dias ', textAlign: TextAlign.right,style: TextStyle(
-    //               fontSize: 10.0,
-    //               fontWeight: FontWeight.bold,
-    //             )),
-    //           ],
-    //         )
-    //     ),
     //
-    //     option[0].optionTemplate(context),
-    //     option[1].optionTemplate(context),
-    //     option[2].optionTemplate(context),
-    //     option[3].optionTemplate(context),
-    //     option[4].optionTemplate(context),
-    //     Container(
-    //       height: 50,
-    //     )
-    //
-    //   ],
-    //   //children: option.map((option) => optionTemplate(option)).toList(),
-    // );
   }
 }

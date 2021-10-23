@@ -1,3 +1,5 @@
+import 'dart:js';
+
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
@@ -42,22 +44,29 @@ class PayAbs {
       textAlign: TextAlign.left,
     );
   }
-  TextField input({name='1',ayuda='w', required IconData icon}){
+  TextField input({name='1',ayuda='w', required IconData icon, number=false}){
 
     return TextField(
       decoration: InputDecoration(
         icon: Icon(icon),
         hintText: ayuda,
         labelText: name ,
+
       ),
+      keyboardType: number ? TextInputType.number : null ,
+      inputFormatters:number ? <TextInputFormatter>[
+        FilteringTextInputFormatter.digitsOnly
+      ]: null,
     );
   }
-  ElevatedButton boton({name='', funcion  }){
-    return ElevatedButton(onPressed: ()=>{
-      print('hola')
+  ElevatedButton boton({name='', context  }){
+    return ElevatedButton(onPressed: () {
+      Navigator.pushNamed(context, '/ok');
     }, child:Text(
       name
-    ));
+    ),
+
+    );
   }
 }
 
