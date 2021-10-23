@@ -69,11 +69,11 @@ Durante esta fase evolucionaremos nuestra idea hasta convertirla en la solución
 
 - Desk Research: Aunque el trabajo de campo es insustituible, el contexto de una pandemia no nos aleja de nuestro objetivo de buscar información que nos permita empatizar y entender mejor a nuestro usuario. Optamos por realizar la lectura de opiniones que han dejado los usuarios de la App BBVA en Play Store, App Store, diversas redes sociales e hicimos búsqueda de noticias. 
 
-![Imagen Tablero Empatizar1](https://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/Empatizar+1.pdf)
+![Imagen Tablero Empatizar1](https://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/Empatizar1.png)
 
 - Benchmarking: Siempre es muy interesante, si no imprescindible, conocer lo que otros están haciendo sobre el tema que estamos tratando. Nos ayudará para inspirarnos y para usar lo que ya sabemos que funciona y descartar lo que otros han intentado pero no ha servido. Para hacer Benchmarking el sistema que utilizamos fué buscar en Google y documentar con screenshots nuestros hallazgos. 
 
-![Imagen Tablero Empatizar2](https://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/Empatizar2.pdf)
+![Imagen Tablero Empatizar2](https://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/Empatizar2.png)
 
 _Aprendizaje Obtenido_: En esta fase detectamos los dolores y necesidades de los usuarios de la app BBVA, tambien tomamos como inspiración las buenas prácticas de otros servicios financieros y apps para pagos de servicios
 _Propuesta_: Rediseño de la homepage colocando las funcionalidades mas usadas por el usuario con la finalidad de acortar los user journeys 
