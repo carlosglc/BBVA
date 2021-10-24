@@ -45,13 +45,14 @@ class _BotScreenState extends State<BotScreen> {
         mns.toLowerCase().contains("varios")){
       ruta = ruta = 'assets/pagos.json';
     }else if(mns.toLowerCase().contains("punto")){
-      ruta = ruta = 'assets/puntos.json';
+      print('++++++++++++++++++++++++++++++++++++++++++++++++++++');
+     ruta = 'assets/puntos.json';
     }else
     if(mns.toLowerCase().contains("recompesa") ||
         mns.toLowerCase().contains("recompensa")){
       ruta = ruta = 'assets/recompensas.json';
     }
-    _response = await readJson('assets/invitado.json');
+    _response = await readJson(ruta);
     print(_response+ ruta+"+++++++");
     // log("#####${data['message']}");
     setState(() {

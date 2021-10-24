@@ -26,6 +26,7 @@ void main(){
       '/login':(context)=> LoginScreen(),
       '/bot':(context)=> BotScreen(),
     },
+    debugShowCheckedModeBanner: false,
     initialRoute: '/login',
   ));
 }

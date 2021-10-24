@@ -11,7 +11,7 @@ class BotService {
   String botName= "Blue";
   String kAccessKeyId = '<ACCESS_KEY>';
   String kSecretAccessKey = '<SECRET_ACCESS_KEY>';
-  String botAlias= "<BOT_ALIAS>";
+  String botAlias= "TestBotAlias";
   String botAWSRegion= "us-east-1";
 
   Future<Map<String,dynamic>> callBot(String message) async {
