@@ -1,0 +1,89 @@
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter/rendering.dart';
+
+
+void main(){
+   runApp(Myapp());
+}
+
+class Myapp extends StatelessWidget{
+        @override
+  Widget build(BuildContext context){
+
+           return MaterialApp(
+
+             title: "Servicios BBVA",
+             home: Scaffold(
+                 backgroundColor: Colors.blue,
+                 appBar: AppBar(
+                   title: Text("Servicios BBVA"),
+                   leading: Icon(Icons.menu_open),
+                     backgroundColor: Colors.indigoAccent,
+                 ),
+             body: Column(
+               mainAxisAlignment: MainAxisAlignment.spaceAround,
+               crossAxisAlignment: CrossAxisAlignment.center,
+               mainAxisSize: MainAxisSize.min,
+               children: <Widget>[
+                 Container(
+                     width: 120,
+                     height:60,
+                     margin: EdgeInsets.all(10),
+                     color: Colors.cyanAccent,
+                     child: Text("Finanzas personales"),
+                     padding: EdgeInsets.all(10),
+                     alignment: Alignment.center,
+                     
+                 ),
+
+                 Container(
+                   width:120,
+                   height:60,
+                   margin: EdgeInsets.all(10),
+                   color: Colors.cyanAccent,
+                   child: Text("Tocken movil"),     BBVA2021! tanianaoh83 tania.naoh83@gmail.com
+                   padding: EdgeInsets.all(10), 
+                   alignment: Alignment.center,
+                 ),
+                 Container(
+                   width: 120,
+                   height:60,
+                   margin: EdgeInsets.all(10),
+                   color: Colors.cyanAccent,
+                   child: Text("Operaciones QR+CoDi"),
+                   padding: EdgeInsets.all(10),
+                   alignment: Alignment.center,
+                 ),
+
+                 Container(
+                   width:120,
+                   height:60,
+                   margin: EdgeInsets.all(10),
+                   color: Colors.cyanAccent,
+                   child: Text("Sucursales"),
+                   padding: EdgeInsets.all(10),
+                   alignment: Alignment.center,
+                 )
+               ],
+             ),
+             ),
+
+           );
+
+
+
+        }
+
+}
+
+Stack:android, flutter, AWS, Amazon lex, Icons, Flutter
+software : android y flutter
+Apiss AWS: Amazon lex 
+bucket s3 hosting imagenes readme
+Arquitectura: Icons
+font: Flutter 
+Back end: AWS 
+
+
+
