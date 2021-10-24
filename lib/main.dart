@@ -9,6 +9,7 @@ import 'package:bbva/recarga.dart';
 import 'package:bbva/transferencia.dart';
 import 'package:flutter/material.dart';
 
+import 'login.dart';
 import 'option.dart';
 
 void main(){
@@ -21,8 +22,9 @@ void main(){
       '/pago':(context)=> Pago(),
       '/recarga':(context)=> Recarga(),
       '/otro':(context)=> Otro(),
+      '/login':(context)=> LoginScreen(),
     },
-    initialRoute: '/invitado',
+    initialRoute: '/login',
   ));
 }
 
