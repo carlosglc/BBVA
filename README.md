@@ -144,7 +144,7 @@ _Aprendizaje Obtenido_: Aprendimos la importancia y complejidad de materializar 
 **EXTRAS**
 
 
-![Extras](hhttps://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/photo1635088609.jpeg)
+![Extras](https://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/photo1635088609.jpeg)
 ![Extras](https://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/photo1635088727.jpeg)
 
 
