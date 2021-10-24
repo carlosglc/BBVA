@@ -56,7 +56,7 @@ Como actividad inicial, llevamos a cabo un pequeño taller de Design Thinking pa
 “El Design Thinking es la intersección de las necesidades de las personas, la factibilidad técnica y la viabilidad como negocio”. 
  Tim Brown
 
-**Las 5 etapas del Design Thinking**
+**Las 4 etapas del Design Thinking que trabajamos en este Hackaton**
 
 En este primer dia de co-creción trabajamos en las primeras 4 fases de Design Thinking
 - Empatizar: Lo primero es ponernos en el lugar del otro, “ver con sus ojos, sentir con su corazón y experimentar con sus sentido”.
@@ -69,11 +69,6 @@ Esta etapa finaliza filtrando los conceptos que se van a prototipado.
 Los criterios que pesan acá son: factibilidad técnica, viabilidad económica y deseabilidad por parte de los usuarios.
 - Prototipar: Es hacer físicas las ideas, en este momento vale todo: dibujos, 3D, recreaciones.
 La única restricción es: usar la menor cantidad de tiempo, energía y recursos para visualizar pronto.
-
-Fase de Testeo Pendiente para el dia sábado
-- Testear: Para analizar la interacción usuario / productos o servicio se contrasta la necesidad de los usuarios y el índice de satisfacción que puede entregar el producto o servicio. 
-Esta fase es crucial y nos ayudará a identificar mejoras significativas, fallos a resolver, posibles carencias, replantear todo o iterar en busca de las mejoras.
-Durante esta fase evolucionaremos nuestra idea hasta convertirla en la solución que estábamos buscando.
 
 ![DesignThinking](https://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/Design+thinking.jpg)
 
@@ -136,28 +131,20 @@ _Aprendizaje Obtenido_: Aprendimos la importancia y complejidad de materializar 
 ![Imagenes Mockups - Prototipar1](https://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/Prototipar1.png)
 ![Imagenes Mockups - Prototipar2](https://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/Prototipar2.png)
 
-----------------------------------------------------------------------------------------------------------------------------------------
-
-**TESTEAR**
-
-FASE PENDIENTE DE REALIZARSE DIA SÁBADO
-
-(Imagen material fase testear)
-
---------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
 
 **PRESENTACION FINAL**
 
 
 
-----------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
 
 **EXTRAS**
 
 
 
 
-----------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
 
 
 
