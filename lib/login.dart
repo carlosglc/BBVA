@@ -308,6 +308,14 @@ class _LoginScreenState extends State<LoginScreen> {
           ),
         ),
       ),
+      floatingActionButton: FloatingActionButton.extended(
+        onPressed: () {
+          Navigator.pushNamed(context, '/bot');
+        },
+        label: const Text(''),
+        icon: const Icon(Icons.message),
+        backgroundColor: Colors.blueBackground.withOpacity(0.5),
+      ),
     );
   }
 }

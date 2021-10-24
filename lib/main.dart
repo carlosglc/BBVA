@@ -9,6 +9,7 @@ import 'package:bbva/recarga.dart';
 import 'package:bbva/transferencia.dart';
 import 'package:flutter/material.dart';
 
+import 'bot.dart';
 import 'login.dart';
 import 'option.dart';
 
@@ -23,6 +24,7 @@ void main(){
       '/recarga':(context)=> Recarga(),
       '/otro':(context)=> Otro(),
       '/login':(context)=> LoginScreen(),
+      '/bot':(context)=> BotScreen(),
     },
     initialRoute: '/login',
   ));
