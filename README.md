@@ -17,7 +17,7 @@ Bucket S3 (Hosting Imagenes Readme
 
 - Arquitectura: Icons
 
-![DesignThinking](https://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/image.png)
+![DesignThinking](https://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/VPM+diagrama.drawio.png)
 --------------------------------------
 
 **INTEGRANTES DEL EQUIPO**
@@ -58,8 +58,6 @@ Como actividad inicial, llevamos a cabo un pequeño taller de Design Thinking pa
 
 **Las 5 etapas del Design Thinking**
 
-![DesignThinking](https://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/Design+thinking.jpg)
-
 En este primer dia de co-creción trabajamos en las primeras 4 fases de Design Thinking
 - Empatizar: Lo primero es ponernos en el lugar del otro, “ver con sus ojos, sentir con su corazón y experimentar con sus sentido”.
 Hay que vivir la experiencia a fondo, el objetivo es meterse en la cosmovisión, cultura y necesidades del usuario.
@@ -77,6 +75,8 @@ Fase de Testeo Pendiente para el dia sábado
 Esta fase es crucial y nos ayudará a identificar mejoras significativas, fallos a resolver, posibles carencias, replantear todo o iterar en busca de las mejoras.
 Durante esta fase evolucionaremos nuestra idea hasta convertirla en la solución que estábamos buscando.
 
+![DesignThinking](https://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/Design+thinking.jpg)
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 **EMPATIZAR**
@@ -85,11 +85,12 @@ Durante esta fase evolucionaremos nuestra idea hasta convertirla en la solución
 
 - Benchmarking: Siempre es muy interesante, si no imprescindible, conocer lo que otros están haciendo sobre el tema que estamos tratando. Nos ayudará para inspirarnos y para usar lo que ya sabemos que funciona y descartar lo que otros han intentado pero no ha servido. Para hacer Benchmarking el sistema que utilizamos fué buscar en Google y documentar con screenshots nuestros hallazgos. 
 
-![Imagen Tablero Empatizar1](https://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/Empatizar1.png) ![Imagen Tablero Empatizar2](https://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/Empatizar2.png)
-
 _Aprendizaje Obtenido_: En esta fase detectamos los dolores y necesidades de los usuarios de la app BBVA, tambien tomamos como inspiración las buenas prácticas de otros servicios financieros y apps para pagos de servicios.
 
 _Propuesta_: Rediseño de la homepage colocando las funcionalidades mas usadas por el usuario con la finalidad de acortar los user journeys
+
+![Imagen Tablero Empatizar1](https://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/Empatizar1.png) 
+![Imagen Tablero Empatizar2](https://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/Empatizar2.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -99,11 +100,13 @@ _Propuesta_: Rediseño de la homepage colocando las funcionalidades mas usadas p
 
 - Mapa de empatía: Un mapa de empatía te permite entender de un modo sencillo lo que piensa y siente una persona. La gran ventaja de esta técnica es que te invita a pensar por categorías, de modo que te ayuda a realizar un análisis en profundidad. Tienes que pensar en un usuario y escribir por zonas qué piensa, qué dice, qué oye, y qué hace. 
 
-![Imagen Tablero Definir](https://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/Definir.jpg)
-
 _Aprendizaje Obtenido_: Para esta fase Concientizamos al equipo de la importancia del diseño centrado en el usuario por medio de la creación de yo ser personas y mapa de empatía para ponernos en los zapatos de los usuarios a quienes vamos a resolverles las problemáticas identificadas en el ejercicio de Desk Research 
 
-_Propuesta_: Identificamos cuatro grandes tipos de usuarios y decidimos trabajar con un user persona primario quien es el cliente representativo de BBVA en México. 
+_Propuesta_: Identificamos cuatro grandes tipos de usuarios y decidimos trabajar con un user persona primario quien es el cliente representativo de BBVA en México
+
+![Imagen Tablero Definir1](https://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/Definir1.png)
+![Imagen Tablero Definir2](https://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/Definir2.png)
+
 -----------------------------------------------------------------------------------
 
 **IDEAR**
@@ -112,9 +115,6 @@ _Propuesta_: Identificamos cuatro grandes tipos de usuarios y decidimos trabajar
 
 - Priorización: este método nos permite seleccionar las ideas y su punto fuerte es que no nos deja descartar tan fácilmente ideas poco factibles con potencial y tambien nos sirve para descartar ideas dificiles de ejecutar en este momento y enfocarnos en las principales funcionalidades a desarrollar. 
 
-
-![Imagen Tablero Idear](https://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/Idear.jpg)
-
 _Aprendizaje Obtenido_: En esta fase procedimos aterrizar las ideas mediante la clusterización de ideas (Financieras, Gastos personales, Pago de servicios, Promociones, Servicio a cliente y Extras). Una vez agrupadas nuestras ideas por categorías procedimos a crear un canvas dividido en cuatro cuadrantes y colocamos las ideas en cada una de las siguientes categorías; La selección racional de funcionalidades a trabajar durante el Hackathon (Prioritarias), ideas que nos gustaría desarrollar en una segunda version de la aplicacion (Potencial), Factibles (son ideas que podríamos desarrollar en una tercera etapa de desarrollo) y finalmente Descartadas (aquí agrupamos las funcionalidades ya existentes o muy difíciles o tardadas de ejecutar por su complejidad técnica)
 
 _Propuesta_: El equipo de desarrollo decidió comenzar trabajar en:
@@ -122,15 +122,19 @@ _Propuesta_: El equipo de desarrollo decidió comenzar trabajar en:
 - Trámite de tarjeta tipo Secure Card (con la finalidad de apoyar a sectores de la población no bancarizados a obtener su propia cuenta bancaria de una manera rápida y sencilla).
 - Creación de ChatBot para Servicio a Cliente.
 - Rediseño de la Homepage de la aplicación.
+
+![Imagen Tablero Idear1](https://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/Idear1.png)
+![Imagen Tablero Idear2](https://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/Idear2.png)
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 **PROTOTIPAR**
 
 - ¡Manos a la obra! : Con las ideas para las funcionalidades a desarrollar previamente trabajadas y seleccionadas, procedimos a hacer mockups y wireframes de baja fidelidad para empezar a visualizar nuestras posibles soluciones.
 
-![Imagenes Mockups - Wireframes](https://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/Prototipar.jpg)
-
 _Aprendizaje Obtenido_: Aprendimos la importancia y complejidad de materializar nuestras ideas de forma visual, asi como decidir en equipo el diseño UI (colores, formas, tamaños, tipografías etc)
+
+![Imagenes Mockups - Prototipar1](https://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/Prototipar1.png)
+![Imagenes Mockups - Prototipar2](https://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/Prototipar2.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
