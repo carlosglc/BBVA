@@ -18,7 +18,16 @@ Bucket S3 (Hosting Imagenes Readme
 - Arquitectura: Icons
 
 ![DesignThinking](https://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/VPM+diagrama.drawio.png)
---------------------------------------
+
+-----------------------------------------------------------------------------------------------------
+
+**ENTREGABLE FINAL**
+
+- Video en equipo oportunidad de negocio y demos: https://drive.google.com/file/d/1O8kcyaYAoHTiQCBuMlLLHMHfLl9iB79r/view?usp=sharing
+- URl Repositorio: https://github.com/carlosglc/BBVA
+- URL Git hub page: https://carlosglc.github.io/BBVA/
+
+-----------------------------------------------------------------------------------------------------
 
 **INTEGRANTES DEL EQUIPO**
 
@@ -132,14 +141,9 @@ _Aprendizaje Obtenido_: Aprendimos la importancia y complejidad de materializar 
 ![Imagenes Mockups - Prototipar2](https://s3.amazonaws.com/masmujeresux.mx/img/hackathonBBVA2021/Prototipar2.png)
 
 -----------------------------------------------------------------------------------------------------
-
-**PRESENTACION FINAL**
-
-
-
------------------------------------------------------------------------------------------------------
-
 **EXTRAS**
+
+
 
 
 
